@@ -1,9 +1,4 @@
 {
-  "codes": [
-    "VIP-8A3F7K",
-    "VIP-4B9P2M",
-    "VIP-Q2L7X1",
-    "VIP-7T6R8D",
-    "VIP-5M4K2N"
-  ]
+  "VIP123": true,
+  "VIP456": true
 }
