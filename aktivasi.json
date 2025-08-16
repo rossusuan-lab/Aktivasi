@@ -1,9 +1,16 @@
 {
   "codes": [
-    "AMF-VIP-12345",
-    "AMF-VIP-67890",
-    "AMF-VIP-24680",
-    "AMF-VIP-11223",
-    "AMF-VIP-99887"
+    {
+      "code": "AMF-VIP-12345",
+      "expiry": "2025-09-01"
+    },
+    {
+      "code": "AMF-VIP-67890",
+      "expiry": "2025-12-31"
+    },
+    {
+      "code": "AMF-VIP-24680",
+      "expiry": "2026-01-15"
+    }
   ]
 }
