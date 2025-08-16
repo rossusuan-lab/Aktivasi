@@ -1,4 +1,8 @@
 {
-  "VIP123": true,
-  "VIP456": true
+  "version": 1,
+  "codes": [
+    "AMF-VIP-12345",
+    "AMF-VIP-ABCDE",
+    "PROMO-AGUSTUS-2025"
+  ]
 }
