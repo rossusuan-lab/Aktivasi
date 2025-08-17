@@ -1,16 +1,16 @@
 {
   "codes": [
     {
-      "code": "AMF-VIP-12345",
-      "expiry": "2025-08-16"
+      "code": "VIP12345",
+      "expired": "2025-09-20T23:59:59"
     },
     {
-      "code": "AMF-VIP-67890",
-      "expiry": "2025-12-31"
+      "code": "BROKAPHUB999",
+      "expired": "2025-09-01T23:59:59"
     },
     {
-      "code": "AMF-VIP-24680",
-      "expiry": "2026-01-15"
+      "code": "FREEVIPTEST",
+      "expired": "2025-08-18T12:00:00"
     }
   ]
 }
